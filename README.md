@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [Pulkit Barala](mailto:pulkitbarala8209@example.com).
+For any inquiries, please contact [Pulkit Barala](mailto:pulkitbarala8209@gmail.com).
