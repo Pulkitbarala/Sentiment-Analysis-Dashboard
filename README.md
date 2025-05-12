@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/Pulkitbarala/Sentiment-Analysis-Dashboard)
 ![GitHub license](https://img.shields.io/github/license/Pulkitbarala/Sentiment-Analysis-Dashboard)
 
-![Dashboard Screenshot](path/to/your/screenshot.png)
+![Dashboard Screenshot](https://github.com/Pulkitbarala/Sentiment-Analysis-Dashboard/blob/main/screenshot/Screenshot%202025-05-12%20155538.png)
 
 ## Overview
 
@@ -67,7 +67,7 @@ The Sentiment Analysis Dashboard is a modern web application designed to analyze
    ```
 5. Run the Flask server:
    ```bash
-   flask run
+   python app.py
    ```
 
 ## Usage
